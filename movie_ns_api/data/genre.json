@@ -1,0 +1,80 @@
+[
+  {
+    "model": "movie_ns_api.Genre",
+    "pk": 1,
+    "fields": {
+      "name": "Science Fiction"
+    }
+  },
+  {
+    "model": "movie_ns_api.Genre",
+    "pk": 2,
+    "fields": {
+      "name": "Horror"
+    }
+  },
+  {
+    "model": "movie_ns_api.Genre",
+    "pk": 3,
+    "fields": {
+      "name": "Musical"
+    }
+  },
+  {
+    "model": "movie_ns_api.Genre",
+    "pk": 4,
+    "fields": {
+      "name": "Romantic"
+    }
+  },
+  {
+    "model": "movie_ns_api.Genre",
+    "pk": 5,
+    "fields": {
+      "name": "Thriller"
+    }
+  },
+  {
+    "model": "movie_ns_api.Genre",
+    "pk": 6,
+    "fields": {
+      "name": "Western"
+    }
+  },
+  {
+    "model": "movie_ns_api.Genre",
+    "pk": 7,
+    "fields": {
+      "name": "Fantasy"
+    }    
+  },
+  {
+    "model": "movie_ns_api.Genre",
+    "pk": 8,
+    "fields": {
+      "name": "Martial arts"
+    }    
+  },
+  {
+    "model": "movie_ns_api.Genre",
+    "pk": 9,
+    "fields": {
+      "name": "Documentary "
+    }    
+  },
+  {
+    "model": "movie_ns_api.Genre",
+    "pk": 10,
+    "fields": {
+      "name": "Animation"
+    }    
+  },
+  {
+    "model": "movie_ns_api.Genre",
+    "pk": 11,
+    "fields": {
+      "name": "Action"
+    }    
+  }
+  
+]
